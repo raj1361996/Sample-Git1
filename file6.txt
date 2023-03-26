@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 This is another file
 
 This is basic for each other 2 file
 
 Blank document
+=======
+blank document
+>>>>>>> ddffec7f597510bac4564c7ebf785ed8e88fb327
